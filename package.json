@@ -5,5 +5,5 @@
     "author": "Bob Lam",
     "license": "MIT",
     "private": true,
-    "workspaces": [ "packages/*" ]
+    "workspaces": [ "packages/**/*" ]
 }
