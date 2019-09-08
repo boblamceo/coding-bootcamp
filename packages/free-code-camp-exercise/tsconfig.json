@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "types": ["jest", "node"],
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "moduleResolution": "node",
+    "declaration": true,
+    "outDir": "dist",
+    "sourceMap": true
+  },
+  "include": ["src/exercises/**/*"],
+  "exclude": ["node_modules"]
+}
