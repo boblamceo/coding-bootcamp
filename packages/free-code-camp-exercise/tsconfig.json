@@ -9,6 +9,6 @@
     "outDir": "dist",
     "sourceMap": true
   },
-  "include": ["src/exercises/**/*"],
+  "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }
