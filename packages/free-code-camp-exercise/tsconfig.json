@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "types": ["jest", "node"],
-    "target": "es6",
+    "target": "es2016",
     "module": "commonjs",
-    "strict": true,
+    "strict": false,
     "moduleResolution": "node",
     "declaration": true,
     "outDir": "dist",
